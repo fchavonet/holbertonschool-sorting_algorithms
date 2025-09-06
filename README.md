@@ -366,6 +366,7 @@ alex@/tmp/sort$
 | `3-O`                     | Big O for Quick sort (Lomuto).                |
 | `3-quick_sort.c`          | Quick sort (Lomuto).                          |
 | `print_array.c`           | Print arrays.                                 |
+| `print_list`              | Print list.                                   |
 | `sort.h`                  | Prototypes and structs.                       |
 | `README.md`               | The README file you are currently reading 😉. |
 
