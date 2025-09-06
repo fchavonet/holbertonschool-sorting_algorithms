@@ -395,7 +395,7 @@ git clone https://github.com/fchavonet/holbertonschool-sorting_algorithms.git
 
 ```bash
 # Bubble sort (arrays).
-gcc -Wall -Wextra -Werror -pedantic -std=gnu89 0-main.c 0-bubble_sort.c print_array.c -o bubble
+gcc -Wall -Wextra -Werror -pedantic 0-bubble_sort.c 0-main.c print_array.c -o bubble
 ./bubble
 
 # Insertion sort (doubly linked list).
